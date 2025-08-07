@@ -29,9 +29,6 @@ const start = async () => {
     server.listen(app.get("port"), () => {
         console.log("LISTENIN ON PORT 8000")
     });
-
-
-
 }
 
 
