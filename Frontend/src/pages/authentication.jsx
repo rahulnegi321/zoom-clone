@@ -17,7 +17,6 @@ import { Snackbar } from '@mui/material';
 
 
 
-// TODO remove, this demo shouldn't need to reset the theme.
 
 const defaultTheme = createTheme();
 
